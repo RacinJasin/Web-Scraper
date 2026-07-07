@@ -1,5 +1,21 @@
 # Web-Scraper
-Understanding Web Scraping and Its Uses
 
+Project Title: 
 
-This is my first attempt at using and understanding web scraping. I'm using this as a project for a Data Analytics class.
+Demo Link:
+
+Table of Contents:
+
+Business Understanding:
+
+Data Understanding:
+
+Screenshots of Visualizations/Results:
+
+Technologies: Python, BeautifulSoup, Requests
+
+Setup:
+
+Approach:
+
+Status: In progress
